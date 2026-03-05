@@ -196,8 +196,7 @@ GET listings_vector/_search
         "model_text": "cozy family home with a big backyard"
       }
     },
-    "k": 5,
-
+    "k": 5
   },
   "_source": ["title", "description", "price", "city"]
 }
