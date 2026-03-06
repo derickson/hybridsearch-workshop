@@ -6,7 +6,7 @@
 
 Navigate to the Kibana server in your browser:
 
-**https://genworthworkshop-005c3c.kb.eastus2.azure.elastic-cloud.com**
+** SERVER HAS BEEN TURNED OFF **
 
 ### 2. Log In
 
